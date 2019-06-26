@@ -1,1 +1,1 @@
-sample demo
+sample-demo
